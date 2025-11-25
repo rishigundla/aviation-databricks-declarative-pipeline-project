@@ -181,7 +181,7 @@ KPIs include:
 - Total passengers  
 - Total flights  
 - Total revenue  
-- Average ticket amount  
+- Average amount  
 
 ---
 
