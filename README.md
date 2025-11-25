@@ -71,8 +71,6 @@ All transformations up to Gold run incrementally using **DLT Streaming Tables**,
 | CDC / History Tracking | DLT Auto-CDC (SCD Type-2) |
 | Storage | Databricks Volumes (Delta Lake) |
 | Governance | Unity Catalog |
-| Orchestration | LakeFlow Workflows |
-| BI Reporting | Databricks AI/BI Dashboard / Power BI / Tableau |
 
 ---
 
